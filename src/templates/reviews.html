@@ -1,0 +1,53 @@
+
+  <main class="reviews">
+    <div class="wrap">
+      <header class="intro">
+        <span class="kicker">Learner Stories</span>
+        <h1>Real Learners. Real Progress.</h1>
+        <p>Discover how Couragier learners are turning practical education into skills, confidence and real-world progress.</p>
+      </header>
+
+      <section class="summary" aria-label="Review summary">
+        <div class="stat"><strong>15</strong><span>Learner reviews</span></div>
+        <div class="stat"><strong>5.0 <b class="star">★</b></strong><span>Average rating</span></div>
+        <div class="stat"><strong>3</strong><span>Languages</span></div>
+      </section>
+
+      <section class="filters" aria-label="Review filters">
+        <div class="filter-row" role="group" aria-label="Filter by plan">
+          <button class="chip active" data-plan="all" aria-pressed="true">All Reviews <span>(15)</span></button>
+          <button class="chip" data-plan="startup" aria-pressed="false">Startup Kit <span>(5)</span></button>
+          <button class="chip" data-plan="essentials" aria-pressed="false">Essentials Kit <span>(5)</span></button>
+          <button class="chip" data-plan="growth" aria-pressed="false">Growth Kit <span>(5)</span></button>
+        </div>
+        <div class="secondary">
+          <select class="select" id="language" aria-label="Filter by language">
+            <option value="all">All languages</option>
+            <option value="kreyol">Kreyòl</option>
+            <option value="english">English</option>
+            <option value="francais">Français</option>
+          </select>
+        </div>
+      </section>
+
+      <div class="results">
+        <p class="count" id="count" aria-live="polite">Showing 6 of 15 reviews</p>
+        <button class="reset" id="reset">Reset filters</button>
+      </div>
+
+      <section class="grid" id="grid" aria-label="Learner reviews"></section>
+      <div class="empty" id="empty">No reviews match these filters yet.</div>
+      <nav class="pagination" aria-label="Review pages">
+        <button class="page-btn" id="previous" type="button">← Previous</button>
+        <span class="page-status" id="page-status" aria-live="polite">Page 1 of 5</span>
+        <button class="page-btn" id="next" type="button">Next →</button>
+      </nav>
+
+      <section class="share">
+        <div><h2>Share your experience with Couragier</h2><p>Your feedback helps other learners make confident decisions.</p></div>
+        <a class="cta" id="write-review-cta" href="https://www.couragier.com/write-a-review" target="_blank" rel="noopener noreferrer">Write Your Review <span aria-hidden="true">&nbsp;→</span></a>
+      </section>
+    </div>
+  </main>
+
+  

@@ -1,0 +1,328 @@
+{
+  "D": {
+    "en": {
+      "nav": [
+        "Home",
+        "About",
+        "Become an Educator",
+        "See Courses",
+        "Reviews"
+      ],
+      "kicker": "Our Story",
+      "hero": "From Challenges to Purpose.",
+      "heroP": "Every great mission begins with a story. Couragier was born from real experiences, difficult moments, and one simple belief: practical education has the power to change lives.",
+      "edition": "The Couragier Story",
+      "reading": "A story of courage, learning, and purpose",
+      "sections": [
+        [
+          "Every Journey Starts Somewhere",
+          [
+            "Like many ambitious young people, the dream was simple: learn, grow, and build a better future.",
+            "Growing up in Haiti taught us resilience, creativity, and the importance of community. It also revealed a reality shared by millions of young people around the world: talent alone is not enough. Without access to practical knowledge, mentorship, and opportunities, even the biggest dreams can feel out of reach."
+          ],
+          "How can education become more practical, more accessible, and more life-changing?"
+        ],
+        [
+          "When Everything Changed",
+          [
+            "Life doesn’t always follow the plans we make.",
+            "During the final year of secondary school, a deeply personal loss changed everything. Despite the emotional weight, the goal remained the same: keep moving forward.",
+            "That experience became a powerful reminder that courage is not the absence of difficulty—it is the decision to continue despite it.",
+            "It was during that period that the first community initiatives began, creating spaces where young people could share ideas, encourage one another, and express themselves openly."
+          ],
+          null
+        ],
+        [
+          "Learning Beyond the Classroom",
+          [
+            "The journey continued through university, leadership initiatives, photography, entrepreneurship, and years of learning through both success and failure.",
+            "Some lessons came from books. Others came from mistakes. Many came from real-life experience.",
+            "Living through uncertainty, adapting to new environments, and constantly rebuilding created a different kind of education—one that no classroom alone could provide.",
+            "Those experiences shaped the philosophy behind everything Couragier creates today."
+          ],
+          null
+        ],
+        [
+          "One Realization Changed Everything",
+          [
+            "After years of learning, one truth became impossible to ignore.",
+            "People don’t fail because they lack potential. They often struggle because they lack clear guidance, practical education, quality resources, real-world examples, and a supportive community.",
+            "Information is everywhere. Practical direction is rare.",
+            "That realization became the foundation of Couragier."
+          ],
+          null
+        ],
+        [
+          "Why Couragier Exists",
+          [
+            "Couragier was created to bridge the gap between learning and doing.",
+            "Not just to teach concepts, but to help people build real skills they can apply with confidence.",
+            "Every resource, illustration, course, toolkit, and live session is designed with one question in mind: Will this genuinely help someone move forward?",
+            "If the answer is no, it doesn’t belong inside Couragier."
+          ],
+          null
+        ]
+      ],
+      "interlude": "The question kept returning: how can learning become a clearer path to real progress?",
+      "standK": "What We Believe",
+      "values": [
+        [
+          "Practical Education",
+          "Learning should create real results, not just more information."
+        ],
+        [
+          "Progress Over Perfection",
+          "Small consistent actions create extraordinary outcomes."
+        ],
+        [
+          "Community Matters",
+          "Growth becomes easier when people learn together."
+        ],
+        [
+          "Quality Builds Trust",
+          "Every document, illustration, course, and resource should reflect excellence."
+        ],
+        [
+          "Everyone Can Grow",
+          "Your starting point does not define your future."
+        ]
+      ],
+      "meaningK": "The Meaning Behind the Name",
+      "meaningT": "What Does Couragier Mean?",
+      "meaningP": [
+        "The name Couragier comes from the idea of courage.",
+        "Not loud courage. Not perfect courage. But the quiet courage to keep learning, keep building, and keep moving forward even when the journey is uncertain.",
+        "The lion represents confidence, leadership, resilience, and the willingness to protect and uplift others."
+      ],
+      "meaningStrong": "Growth begins with courage.",
+      "discover": "Discover",
+      "languages": "Languages",
+      "connect": "Connect",
+      "footerP": "Practical learning experiences designed to help ambitious people build useful skills and create real opportunities.",
+      "rights": "All rights reserved."
+    },
+    "fr": {
+      "nav": [
+        "Accueil",
+        "À propos",
+        "Devenir éducateur",
+        "Voir les cours",
+        "Avis"
+      ],
+      "kicker": "Notre histoire",
+      "hero": "Des défis à une mission.",
+      "heroP": "Chaque grande mission commence par une histoire. Couragier est né d’expériences réelles, de moments difficiles et d’une conviction simple : l’éducation pratique a le pouvoir de transformer des vies.",
+      "edition": "L’histoire de Couragier",
+      "reading": "Une histoire de courage, d’apprentissage et de mission",
+      "sections": [
+        [
+          "Tout parcours commence quelque part",
+          [
+            "Comme beaucoup de jeunes ambitieux, le rêve était simple : apprendre, progresser et bâtir un avenir meilleur.",
+            "Grandir en Haïti nous a appris la résilience, la créativité et l’importance de la communauté. Cela a aussi révélé une réalité partagée par des millions de jeunes : le talent seul ne suffit pas. Sans connaissances pratiques, mentorat et possibilités, même les plus grands rêves peuvent sembler hors de portée."
+          ],
+          "Comment rendre l’éducation plus pratique, plus accessible et plus transformatrice ?"
+        ],
+        [
+          "Le jour où tout a changé",
+          [
+            "La vie ne suit pas toujours les plans que nous faisons.",
+            "Durant la dernière année du secondaire, une perte profondément personnelle a tout changé. Malgré le poids émotionnel, l’objectif est resté le même : continuer d’avancer.",
+            "Cette expérience a rappelé avec force que le courage n’est pas l’absence de difficulté, mais la décision de continuer malgré elle.",
+            "C’est à cette période que les premières initiatives communautaires ont commencé, créant des espaces où les jeunes pouvaient partager leurs idées, s’encourager et s’exprimer librement."
+          ],
+          null
+        ],
+        [
+          "Apprendre au-delà de la salle de classe",
+          [
+            "Le parcours s’est poursuivi à travers l’université, le leadership, la photographie, l’entrepreneuriat et des années d’apprentissage par la réussite comme par l’échec.",
+            "Certaines leçons venaient des livres. D’autres des erreurs. Beaucoup venaient de l’expérience réelle.",
+            "Vivre dans l’incertitude, s’adapter à de nouveaux environnements et reconstruire sans cesse a créé une forme différente d’éducation qu’aucune salle de classe ne pouvait offrir seule.",
+            "Ces expériences ont façonné la philosophie de tout ce que Couragier crée aujourd’hui."
+          ],
+          null
+        ],
+        [
+          "Une prise de conscience a tout changé",
+          [
+            "Après des années d’apprentissage, une vérité est devenue impossible à ignorer.",
+            "Les gens n’échouent pas par manque de potentiel. Ils rencontrent souvent des difficultés parce qu’ils manquent de directives claires, d’éducation pratique, de ressources de qualité, d’exemples réels et d’une communauté solidaire.",
+            "L’information est partout. La direction pratique est rare.",
+            "Cette prise de conscience est devenue la fondation de Couragier."
+          ],
+          null
+        ],
+        [
+          "Pourquoi Couragier existe",
+          [
+            "Couragier a été créé pour combler l’écart entre apprendre et faire.",
+            "Pas seulement pour enseigner des concepts, mais pour aider les personnes à développer de vraies compétences qu’elles peuvent appliquer avec confiance.",
+            "Chaque ressource, illustration, cours, boîte à outils et session en direct est conçu autour d’une question : cela aidera-t-il réellement quelqu’un à avancer ?",
+            "Si la réponse est non, cela n’a pas sa place chez Couragier."
+          ],
+          null
+        ]
+      ],
+      "interlude": "La question revenait toujours : comment faire de l’apprentissage un chemin plus clair vers un progrès réel ?",
+      "standK": "Ce en quoi nous croyons",
+      "values": [
+        [
+          "Éducation pratique",
+          "L’apprentissage doit produire des résultats réels, pas seulement davantage d’information."
+        ],
+        [
+          "Le progrès avant la perfection",
+          "De petites actions constantes créent des résultats extraordinaires."
+        ],
+        [
+          "La communauté compte",
+          "Il est plus facile de progresser lorsque nous apprenons ensemble."
+        ],
+        [
+          "La qualité crée la confiance",
+          "Chaque document, illustration, cours et ressource doit refléter l’excellence."
+        ],
+        [
+          "Tout le monde peut progresser",
+          "Votre point de départ ne définit pas votre avenir."
+        ]
+      ],
+      "meaningK": "La signification du nom",
+      "meaningT": "Que signifie Couragier ?",
+      "meaningP": [
+        "Le nom Couragier vient de l’idée du courage.",
+        "Pas un courage bruyant. Pas un courage parfait. Mais le courage discret de continuer à apprendre, à construire et à avancer lorsque le parcours est incertain.",
+        "Le lion représente la confiance, le leadership, la résilience et la volonté de protéger et d’élever les autres."
+      ],
+      "meaningStrong": "La croissance commence par le courage.",
+      "discover": "Découvrir",
+      "languages": "Langues",
+      "connect": "Contact",
+      "footerP": "Des expériences pratiques conçues pour développer des compétences utiles et créer de vraies opportunités.",
+      "rights": "Tous droits réservés."
+    },
+    "ht": {
+      "nav": [
+        "Akèy",
+        "Konsènan nou",
+        "Vin yon edikatè",
+        "Gade kou yo",
+        "Evalyasyon"
+      ],
+      "kicker": "Istwa nou",
+      "hero": "Soti nan defi pou rive nan yon misyon.",
+      "heroP": "Chak gwo misyon kòmanse ak yon istwa. Couragier fèt nan eksperyans reyèl, moman difisil ak yon kwayans senp: edikasyon pratik gen pouvwa pou chanje lavi.",
+      "edition": "Istwa Couragier",
+      "reading": "Yon istwa kouraj, aprantisaj ak misyon",
+      "sections": [
+        [
+          "Chak vwayaj kòmanse yon kote",
+          [
+            "Menm jan ak anpil jèn ki gen anbisyon, rèv la te senp: aprann, grandi epi bati yon pi bon avni.",
+            "Grandi ann Ayiti te aprann nou rezistans, kreyativite ak enpòtans kominote. Sa te montre nou tou yon reyalite plizyè milyon jèn pataje: talan sèlman pa sifi. San konesans pratik, mentor ak opòtinite, menm pi gwo rèv yo kapab sanble twò lwen."
+          ],
+          "Kijan edikasyon kapab vin pi pratik, pi aksesib epi chanje lavi moun plis?"
+        ],
+        [
+          "Lè tout bagay te chanje",
+          [
+            "Lavi pa toujou suiv plan nou fè yo.",
+            "Pandan dènye ane lekòl segondè a, yon pèt ki te touche nou pèsonèlman te chanje tout bagay. Malgre chay emosyonèl la, objektif la te rete menm: kontinye vanse.",
+            "Eksperyans sa a te raple nou kouraj se pa absans difikilte; se desizyon pou kontinye malgre difikilte a.",
+            "Se nan peryòd sa a premye inisyativ kominotè yo te kòmanse, pou kreye espas kote jèn yo te kapab pataje lide, ankouraje youn lòt epi eksprime tèt yo lib."
+          ],
+          null
+        ],
+        [
+          "Aprann pi lwen pase sal klas",
+          [
+            "Vwayaj la te kontinye atravè inivèsite, lidèchip, fotografi, antreprenarya ak plizyè ane aprantisaj nan siksè kou nan echèk.",
+            "Gen leson ki te soti nan liv. Gen lòt ki te soti nan erè. Anpil te soti nan eksperyans lavi reyèl.",
+            "Viv nan ensètitid, adapte ak nouvo anviwònman epi toujou rebati te kreye yon lòt kalite edikasyon okenn sal klas pa t kapab bay poukont li.",
+            "Eksperyans sa yo te fòme filozofi ki dèyè tout sa Couragier kreye jodi a."
+          ],
+          null
+        ],
+        [
+          "Yon realizasyon te chanje tout bagay",
+          [
+            "Apre plizyè ane ap aprann, yon verite te vin enposib pou inyore.",
+            "Moun pa echwe paske yo pa gen potansyèl. Souvan, yo gen difikilte paske yo manke bonjan gid, edikasyon pratik, resous kalite, egzanp reyèl ak yon kominote ki soutni yo.",
+            "Enfòmasyon tout kote. Direksyon pratik ra.",
+            "Realizasyon sa a te vin fondasyon Couragier."
+          ],
+          null
+        ],
+        [
+          "Poukisa Couragier egziste",
+          [
+            "Couragier te kreye pou fè pon ant aprann ak fè.",
+            "Pa sèlman pou anseye konsèp, men pou ede moun bati bonjan konpetans yo kapab aplike ak konfyans.",
+            "Chak resous, ilistrasyon, kou, bwat zouti ak sesyon an dirèk fèt ak yon kestyon nan tèt nou: èske sa ap ede yon moun vanse toutbon?",
+            "Si repons lan se non, li pa gen plas li nan Couragier."
+          ],
+          null
+        ]
+      ],
+      "interlude": "Kesyon an te toujou retounen: kijan aprantisaj kapab vin yon chemen ki pi klè pou rive nan bonjan pwogrè?",
+      "standK": "Sa nou kwè",
+      "values": [
+        [
+          "Edikasyon pratik",
+          "Aprantisaj dwe kreye rezilta reyèl, pa sèlman plis enfòmasyon."
+        ],
+        [
+          "Pwogrè anvan pèfeksyon",
+          "Ti aksyon ki fèt regilyèman kapab kreye rezilta ekstraòdinè."
+        ],
+        [
+          "Kominote enpòtan",
+          "Li pi fasil pou grandi lè moun aprann ansanm."
+        ],
+        [
+          "Kalite bati konfyans",
+          "Chak dokiman, ilistrasyon, kou ak resous dwe reflete ekselans."
+        ],
+        [
+          "Tout moun kapab grandi",
+          "Kote ou kòmanse a pa defini avni ou."
+        ]
+      ],
+      "meaningK": "Sans ki dèyè non an",
+      "meaningT": "Kisa Couragier vle di?",
+      "meaningP": [
+        "Non Couragier soti nan lide kouraj.",
+        "Se pa yon kouraj ki fè bri. Se pa yon kouraj pafè. Men se kouraj trankil pou kontinye aprann, kontinye bati epi kontinye vanse menm lè vwayaj la pa sèten.",
+        "Lyon an reprezante konfyans, lidèchip, rezistans ak volonte pou pwoteje epi leve lòt moun."
+      ],
+      "meaningStrong": "Pwogrè kòmanse ak kouraj.",
+      "discover": "Dekouvri",
+      "languages": "Lang",
+      "connect": "Konekte",
+      "footerP": "Eksperyans aprantisaj pratik ki fèt pou ede moun devlope bonjan konpetans epi kreye opòtinite reyèl.",
+      "rights": "Tout dwa rezève."
+    }
+  },
+  "N": {
+    "logo": "/assets/images/couragier_official_logo.svg",
+    "story": [
+      "/assets/images/couragier_lion_mascot_e_learning_companion_about_story_0.webp",
+      "/assets/images/couragier_lion_mascot_e_learning_companion_about_story_1.webp",
+      "/assets/images/couragier_lion_mascot_e_learning_companion_about_story_2.webp",
+      "/assets/images/couragier_lion_mascot_e_learning_companion_about_story_3.webp",
+      "/assets/images/couragier_lion_mascot_e_learning_companion_about_story_4.webp",
+      "/assets/images/couragier_lion_mascot_e_learning_companion_about_story_5.webp",
+      "/assets/images/couragier_lion_mascot_e_learning_companion_about_story_6.webp"
+    ],
+    "thinking": "/assets/images/couragier_lion_mascot_e_learning_companion_about_thinking.webp",
+    "footer": [
+      "/assets/images/couragier_educator_footer_0.webp",
+      "/assets/images/couragier_educator_footer_1.webp",
+      "/assets/images/couragier_educator_footer_2.webp",
+      "/assets/images/couragier_educator_footer_3.webp",
+      "/assets/images/couragier_educator_footer_4.webp",
+      "/assets/images/couragier_educator_footer_5.webp"
+    ]
+  }
+}

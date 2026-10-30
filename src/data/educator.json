@@ -1,0 +1,324 @@
+{
+  "D": {
+    "en": {
+      "nav": [
+        "Home",
+        "About",
+        "Become an Educator",
+        "See Courses",
+        "Reviews"
+      ],
+      "hero": "Become a <span>Couragier Educator</span>",
+      "heroP": "Share what you know, inspire ambitious learners, and turn practical expertise into meaningful learning experiences.",
+      "apply": "Start Your Application",
+      "learn": "Learn More",
+      "benefits": [
+        [
+          "🌍",
+          "Reach Globally",
+          "Connect with learners around the world and expand your impact."
+        ],
+        [
+          "✦",
+          "Grow Your Brand",
+          "Build authority and position yourself as a trusted educator."
+        ],
+        [
+          "↗",
+          "Earn From Your Knowledge",
+          "Monetize your expertise while helping learners achieve their goals."
+        ],
+        [
+          "♥",
+          "Join a Mission",
+          "Be part of a purpose-driven community focused on education and growth."
+        ]
+      ],
+      "whyK": "Why teach with Couragier?",
+      "whyT": "Your expertise can create real opportunities",
+      "whyP": "Couragier gives practical educators a clear environment to teach, guide, and make a measurable difference.",
+      "points": [
+        [
+          "Global Reach",
+          "Teach beyond borders and connect with motivated learners."
+        ],
+        [
+          "Practical Impact",
+          "Help people turn knowledge into skills they can use."
+        ],
+        [
+          "Creative Support",
+          "Build high-quality learning experiences with a consistent system."
+        ],
+        [
+          "Meaningful Growth",
+          "Grow your authority, audience, and earning potential."
+        ]
+      ],
+      "lookK": "Who are we looking for?",
+      "lookT": "Passionate educators and real-world experts",
+      "lookP": "We welcome professionals who can explain clearly, teach practically, and guide learners with integrity.",
+      "fields": [
+        "AI & Technology Experts",
+        "Business & Entrepreneurship Experts",
+        "Finance Professionals",
+        "Personal Development Educators",
+        "Marketing Professionals",
+        "eCommerce Experts"
+      ],
+      "otherK": "Your field isn’t listed?",
+      "otherP": "If your expertise is in another field that may support Couragier’s learning mission, you are still welcome to apply. Our team will review your experience and potential contribution individually.",
+      "standK": "Our teaching standards",
+      "standT": "Practical education requires more than information",
+      "standP": "We protect the quality of every Couragier learning experience.",
+      "good": "We look for",
+      "bad": "We don't look for",
+      "goodItems": [
+        "Practical educators",
+        "Clear communicators",
+        "Passionate mentors",
+        "Professionals who lead by example"
+      ],
+      "badItems": [
+        "People who simply read slides",
+        "Information without real-world value",
+        "Low-effort or unprepared sessions",
+        "Content without a clear learner outcome"
+      ],
+      "quote": "At Couragier, education is not about talking to people, but walking the journey with them. We rise together.",
+      "team": "— Couragier Team",
+      "formK": "Application",
+      "formT": "Apply to become a Couragier Educator",
+      "formP": "Complete the application below. Every submission is carefully reviewed by our team.",
+      "fallback": "The application form is temporarily unavailable on this view.",
+      "openForm": "Open the Application Form",
+      "discover": "Discover",
+      "languages": "Languages",
+      "connect": "Connect",
+      "footerP": "Practical learning experiences designed to help ambitious people build useful skills and create real opportunities.",
+      "rights": "All rights reserved."
+    },
+    "fr": {
+      "nav": [
+        "Accueil",
+        "À propos",
+        "Devenir éducateur",
+        "Voir les cours",
+        "Avis"
+      ],
+      "hero": "Devenez <span>éducateur Couragier</span>",
+      "heroP": "Partagez vos connaissances, inspirez des apprenants ambitieux et transformez votre expertise pratique en expériences d’apprentissage utiles.",
+      "apply": "Commencer votre candidature",
+      "learn": "En savoir plus",
+      "benefits": [
+        [
+          "🌍",
+          "Touchez le monde entier",
+          "Entrez en contact avec des apprenants du monde entier et élargissez votre impact."
+        ],
+        [
+          "✦",
+          "Développez votre marque",
+          "Renforcez votre autorité et positionnez-vous comme éducateur de confiance."
+        ],
+        [
+          "↗",
+          "Valorisez vos connaissances",
+          "Monétisez votre expertise tout en aidant les apprenants à atteindre leurs objectifs."
+        ],
+        [
+          "♥",
+          "Rejoignez une mission",
+          "Intégrez une communauté engagée en faveur de l’éducation et du développement."
+        ]
+      ],
+      "whyK": "Pourquoi enseigner avec Couragier ?",
+      "whyT": "Votre expertise peut créer de vraies opportunités",
+      "whyP": "Couragier offre aux éducateurs pratiques un environnement clair pour enseigner, guider et produire un impact mesurable.",
+      "points": [
+        [
+          "Portée mondiale",
+          "Enseignez au-delà des frontières et rejoignez des apprenants motivés."
+        ],
+        [
+          "Impact pratique",
+          "Aidez les personnes à transformer leurs connaissances en compétences utiles."
+        ],
+        [
+          "Soutien créatif",
+          "Créez des expériences de qualité grâce à un système cohérent."
+        ],
+        [
+          "Croissance significative",
+          "Développez votre autorité, votre audience et votre potentiel de revenus."
+        ]
+      ],
+      "lookK": "Qui recherchons-nous ?",
+      "lookT": "Des éducateurs passionnés et des experts de terrain",
+      "lookP": "Nous accueillons des professionnels capables d’expliquer clairement, d’enseigner de façon pratique et de guider avec intégrité.",
+      "fields": [
+        "Experts en IA et technologie",
+        "Experts en affaires et entrepreneuriat",
+        "Professionnels de la finance",
+        "Éducateurs en développement personnel",
+        "Professionnels du marketing",
+        "Experts en commerce électronique"
+      ],
+      "otherK": "Votre domaine n’est pas dans la liste ?",
+      "otherP": "Si votre expertise relève d’un autre secteur susceptible de contribuer à la mission éducative de Couragier, vous pouvez tout de même postuler. Notre équipe examinera individuellement votre expérience et votre contribution potentielle.",
+      "standK": "Nos standards d’enseignement",
+      "standT": "L’éducation pratique exige plus que de l’information",
+      "standP": "Nous protégeons la qualité de chaque expérience d’apprentissage Couragier.",
+      "good": "Nous recherchons",
+      "bad": "Nous ne recherchons pas",
+      "goodItems": [
+        "Des éducateurs pratiques",
+        "Des communicateurs clairs",
+        "Des mentors passionnés",
+        "Des professionnels qui montrent l’exemple"
+      ],
+      "badItems": [
+        "Des personnes qui lisent simplement des diapositives",
+        "Des informations sans valeur concrète",
+        "Des sessions peu préparées",
+        "Du contenu sans résultat clair pour l’apprenant"
+      ],
+      "quote": "Chez Couragier, l’éducation ne consiste pas à parler aux gens, mais à parcourir le chemin avec eux. Nous progressons ensemble.",
+      "team": "— Équipe Couragier",
+      "formK": "Candidature",
+      "formT": "Postulez pour devenir éducateur Couragier",
+      "formP": "Remplissez la candidature ci-dessous. Chaque demande est examinée attentivement par notre équipe.",
+      "fallback": "Le formulaire est temporairement indisponible dans cette vue.",
+      "openForm": "Ouvrir le formulaire",
+      "discover": "Découvrir",
+      "languages": "Langues",
+      "connect": "Contact",
+      "footerP": "Des expériences pratiques conçues pour développer des compétences utiles et créer de vraies opportunités.",
+      "rights": "Tous droits réservés."
+    },
+    "ht": {
+      "nav": [
+        "Akèy",
+        "Konsènan nou",
+        "Vin yon edikatè",
+        "Gade kou yo",
+        "Evalyasyon"
+      ],
+      "hero": "Vin yon <span>Edikatè Couragier</span>",
+      "heroP": "Pataje sa ou konnen, enspire moun ki anvi aprann, epi transfòme eksperyans pratik ou an bonjan aprantisaj.",
+      "apply": "Kòmanse aplikasyon ou",
+      "learn": "Aprann plis",
+      "benefits": [
+        [
+          "🌍",
+          "Rive jwenn moun toupatou",
+          "Konekte ak moun k ap aprann atravè lemond epi elaji enpak ou."
+        ],
+        [
+          "✦",
+          "Devlope mak ou",
+          "Bati otorite w epi pozisyone tèt ou kòm yon edikatè moun ka fè konfyans."
+        ],
+        [
+          "↗",
+          "Fè konesans ou rapòte",
+          "Touche ak ekspètiz ou pandan w ap ede moun reyalize objektif yo."
+        ],
+        [
+          "♥",
+          "Antre nan yon misyon",
+          "Vin fè pati yon kominote ki konsantre sou edikasyon ak pwogrè."
+        ]
+      ],
+      "whyK": "Poukisa pou anseye ak Couragier?",
+      "whyT": "Ekspètiz ou kapab kreye bonjan opòtinite",
+      "whyP": "Couragier bay edikatè pratik yo yon anviwònman klè pou anseye, gide epi fè yon diferans ki mezire.",
+      "points": [
+        [
+          "Rive atravè lemond",
+          "Anseye san fwontyè epi konekte ak moun ki motive."
+        ],
+        [
+          "Enpak pratik",
+          "Ede moun transfòme konesans an konpetans yo kapab itilize."
+        ],
+        [
+          "Sipò kreyatif",
+          "Kreye bonjan eksperyans aprantisaj ak yon sistèm ki konsistan."
+        ],
+        [
+          "Pwogrè ki gen sans",
+          "Devlope otorite w, odyans ou ak potansyèl revni w."
+        ]
+      ],
+      "lookK": "Ki moun n ap chèche?",
+      "lookT": "Edikatè pasyone ak ekspè ki gen eksperyans reyèl",
+      "lookP": "Nou akeyi pwofesyonèl ki kapab eksplike klè, anseye yon fason pratik epi gide moun ak entegrite.",
+      "fields": [
+        "Ekspè nan IA ak teknoloji",
+        "Ekspè nan biznis ak antreprenarya",
+        "Pwofesyonèl nan finans",
+        "Edikatè nan devlopman pèsonèl",
+        "Pwofesyonèl nan maketing",
+        "Ekspè nan komès elektwonik"
+      ],
+      "otherK": "Domèn ou an pa nan lis la?",
+      "otherP": "Si ekspètiz ou nan yon lòt sektè ki kapab kontribye nan misyon aprantisaj Couragier la, ou kapab toujou aplike. Ekip nou an ap evalye eksperyans ou ak kontribisyon ou kapab pote a endividyèlman.",
+      "standK": "Prensip ansèyman nou",
+      "standT": "Edikasyon pratik mande plis pase enfòmasyon",
+      "standP": "Nou pwoteje kalite chak eksperyans aprantisaj Couragier.",
+      "good": "Sa n ap chèche",
+      "bad": "Sa nou pa chèche",
+      "goodItems": [
+        "Edikatè pratik",
+        "Moun ki kominike klè",
+        "Mentò ki pasyone",
+        "Pwofesyonèl ki bay bon egzanp"
+      ],
+      "badItems": [
+        "Moun ki sèlman li diapozitiv",
+        "Enfòmasyon ki pa gen valè nan lavi reyèl",
+        "Sesyon ki pa byen prepare",
+        "Kontni ki pa gen yon rezilta klè pou moun k ap aprann"
+      ],
+      "quote": "Nan Couragier, edikasyon se pa sèlman pale ak moun; se mache chemen an ansanm avèk yo. Nou leve ansanm.",
+      "team": "— Ekip Couragier",
+      "formK": "Aplikasyon",
+      "formT": "Aplike pou vin yon Edikatè Couragier",
+      "formP": "Ranpli aplikasyon ki anba a. Ekip nou an egzamine chak aplikasyon avèk anpil atansyon.",
+      "fallback": "Fòm aplikasyon an pa disponib tanporèman nan afichaj sa a.",
+      "openForm": "Louvri fòm aplikasyon an",
+      "discover": "Dekouvri",
+      "languages": "Lang",
+      "connect": "Konekte",
+      "footerP": "Eksperyans aprantisaj pratik ki fèt pou ede moun devlope bonjan konpetans epi kreye opòtinite reyèl.",
+      "rights": "Tout dwa rezève."
+    }
+  },
+  "N": {
+    "logo": "/assets/images/couragier_official_logo.svg",
+    "hero": "/assets/images/couragier_lion_mascot_e_learning_companion_educator_hero.webp",
+    "why": [
+      "/assets/images/couragier_educator_why_0.webp",
+      "/assets/images/couragier_educator_why_1.webp",
+      "/assets/images/couragier_educator_why_2.webp",
+      "/assets/images/couragier_educator_why_3.webp"
+    ],
+    "fields": [
+      "/assets/images/couragier_educator_fields_0.webp",
+      "/assets/images/couragier_educator_fields_1.webp",
+      "/assets/images/couragier_educator_fields_2.webp",
+      "/assets/images/couragier_educator_fields_3.webp",
+      "/assets/images/couragier_educator_fields_4.webp",
+      "/assets/images/couragier_educator_fields_5.webp"
+    ],
+    "footer": [
+      "/assets/images/couragier_educator_footer_0.webp",
+      "/assets/images/couragier_educator_footer_1.webp",
+      "/assets/images/couragier_educator_footer_2.webp",
+      "/assets/images/couragier_educator_footer_3.webp",
+      "/assets/images/couragier_educator_footer_4.webp",
+      "/assets/images/couragier_educator_footer_5.webp"
+    ]
+  }
+}

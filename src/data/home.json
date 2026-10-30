@@ -1,0 +1,672 @@
+{
+  "D": {
+    "en": {
+      "nav": [
+        "Home",
+        "About",
+        "Become an educator",
+        "See Our Plans",
+        "Reviews"
+      ],
+      "heroK": "Practical education for real-world progress",
+      "hero1": "Build Practical Skills.",
+      "hero2": "Create Real Opportunities.",
+      "heroP": "Learn practical skills in AI, eCommerce, entrepreneurship, and personal development through clear, step-by-step learning experiences.",
+      "explore": "Explore Courses",
+      "start": "Start Learning",
+      "trust": [
+        "Practical & Actionable",
+        "Beginner Friendly",
+        "Lifetime Access",
+        "Community Support",
+        "Learn Anywhere",
+        "Secure Payments"
+      ],
+      "aboutK": "About Couragier",
+      "aboutT": "More than a platform. A lifelong learning companion.",
+      "aboutP": "Built on the belief that learning can change lives, Couragier makes high-quality practical education simple, accessible, and inspiring for ambitious learners.",
+      "story": "Read Our Story",
+      "journeyK": "How it works",
+      "journeyT": "Your Learning Journey",
+      "journeyP": "A simple path designed to help you learn, apply, and achieve real results.",
+      "steps": [
+        [
+          "Choose Your Path",
+          "Select the learning direction that matches your goals."
+        ],
+        [
+          "Learn & Practice",
+          "Follow clear lessons and practice with useful resources."
+        ],
+        [
+          "Achieve Results",
+          "Apply your skills with confidence in the real world."
+        ]
+      ],
+      "skillsK": "Learning directions",
+      "skillsT": "Skills for building what’s next",
+      "skillsP": "Explore practical areas that can help you build, improve, and move forward.",
+      "skills": [
+        [
+          "Amazon FBA",
+          "Research products, source inventory, and build an Amazon business."
+        ],
+        [
+          "Entrepreneurship",
+          "Build the mindset, systems, and strategies to grow a business."
+        ],
+        [
+          "Artificial Intelligence",
+          "Use AI tools to work faster, create smarter, and improve productivity."
+        ],
+        [
+          "Digital Marketing",
+          "Master content, branding, social media, and customer acquisition."
+        ],
+        [
+          "Personal Finance",
+          "Build healthier financial habits and long-term strategies."
+        ],
+        [
+          "Personal Growth",
+          "Improve confidence, discipline, communication, and leadership."
+        ]
+      ],
+      "ecoK": "Our ecosystem",
+      "ecoT": "Everything you need to learn, practice, and grow",
+      "ecoP": "Access practical learning experiences and resources—all in one place.",
+      "eco": [
+        [
+          "Books",
+          "Discover practical books designed to help you learn, think differently, and build real-world skills at your own pace."
+        ],
+        [
+          "Courses",
+          "Follow structured, step-by-step learning experiences that turn knowledge into practical skills and real results."
+        ],
+        [
+          "Audio",
+          "Listen anytime with motivational talks, lessons, and insights designed to help you keep learning wherever you are."
+        ],
+        [
+          "Videos",
+          "Watch engaging educational videos that simplify complex topics and make learning more practical and enjoyable."
+        ],
+        [
+          "Toolkits",
+          "Access practical templates, checklists, planners, and ready-to-use resources that help you take action faster."
+        ],
+        [
+          "Community",
+          "Join a supportive community where learners connect, share ideas, ask questions, and grow together."
+        ]
+      ],
+      "more": "Learn More →",
+      "whyK": "Built for progress",
+      "whyT": "Why learners choose Couragier",
+      "whyP": "Learning should be clear, practical, and connected to meaningful action.",
+      "benefits": [
+        [
+          "Designed for Understanding",
+          "Clear visuals and simple explanations that make learning easier."
+        ],
+        [
+          "Beyond Video Lessons",
+          "Every course includes supporting resources that reinforce learning."
+        ],
+        [
+          "One Consistent Learning System",
+          "The same visual language across every course, workbook, and guide."
+        ],
+        [
+          "Learn. Practice. Apply.",
+          "Turn knowledge into real skills through hands-on resources."
+        ],
+        [
+          "Focused on Your Success",
+          "We’re committed to helping you achieve real-world results—not just complete lessons."
+        ],
+        [
+          "Built for Real-World Use",
+          "Learn practical skills you can use to build, improve, and grow in the real world."
+        ]
+      ],
+      "eduK": "Teach. Inspire. Make an impact.",
+      "eduT": "Become a Couragier Educator",
+      "eduP": "Share your knowledge, empower learners, and join a global mission creating real change through practical education.",
+      "apply": "Start your application",
+      "reviewsK": "Community feedback",
+      "reviewsT": "What our community is saying",
+      "reviewsP": "Real stories from people who are learning, growing, and building their future with Couragier.",
+      "allReviews": "View all reviews →",
+      "faqK": "Questions",
+      "faqT": "Frequently Asked Questions",
+      "faqs": [
+        [
+          "What is Couragier?",
+          "Couragier is a practical learning ecosystem designed to help ambitious people build useful skills, apply what they learn, and create real opportunities."
+        ],
+        [
+          "Who is Couragier for?",
+          "Couragier is for curious, ambitious learners, entrepreneurs, professionals, and anyone who wants clear guidance and practical skills for real-world progress."
+        ],
+        [
+          "Are the resources beginner-friendly?",
+          "Yes. Our resources use clear explanations, visual guidance, and step-by-step instruction so beginners can learn with confidence."
+        ],
+        [
+          "What types of resources are available?",
+          "Couragier offers books, courses, videos, audio lessons, practical toolkits, templates, checklists, and community learning experiences."
+        ],
+        [
+          "Are new resources added regularly?",
+          "Yes. We continue to develop new learning experiences and practical resources as the Couragier ecosystem grows."
+        ],
+        [
+          "Is there a learning community?",
+          "Yes. Couragier is building a supportive community where learners can connect, exchange ideas, ask questions, and grow together."
+        ],
+        [
+          "Can I become a Couragier educator?",
+          "Yes. Experienced professionals and educators can apply to share practical knowledge through Couragier."
+        ],
+        [
+          "Where should I start?",
+          "The best place to start is our Resources page. There, you can explore everything Couragier has to offer, including books, courses, videos, practical toolkits, and other educational resources covering eCommerce, artificial intelligence, entrepreneurship, personal development, and much more. From there, you can choose the resources that best match your goals, interests, and experience level."
+        ],
+        [
+          "Do I need to pay to access Couragier?",
+          "Not always. Couragier offers both free and premium resources. You can start learning with selected free content and choose to unlock additional resources, courses, and exclusive experiences as you continue your journey."
+        ]
+      ],
+      "footerP": "Practical learning experiences and resources designed to help you build useful skills and create real opportunities.",
+      "legal": "LEGAL",
+      "connect": "CONNECT",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "refund": "Refund Policy",
+      "rights": "All rights reserved.",
+      "contact": [
+        "Still have a question?",
+        "Our support team is ready to help.",
+        "Contact Us"
+      ],
+      "exploreCol": "Discover",
+      "languages": "Languages",
+      "available": "Available in",
+      "response": "Response within 12 hours",
+      "home": "Home",
+      "about": "About",
+      "educator": "Become an Educator",
+      "courses": "See Courses",
+      "learning": "Start Learning",
+      "reviews": "Reviews"
+    },
+    "fr": {
+      "nav": [
+        "Accueil",
+        "À propos",
+        "Devenir formateur",
+        "Voir nos offres",
+        "Avis"
+      ],
+      "heroK": "Une éducation pratique pour progresser dans la vie réelle",
+      "hero1": "Développez des compétences pratiques.",
+      "hero2": "Créez de réelles opportunités.",
+      "heroP": "Développez des compétences concrètes en IA, e-commerce, entrepreneuriat et développement personnel grâce à des parcours clairs et progressifs.",
+      "explore": "Explorer les cours",
+      "start": "Commencer à apprendre",
+      "trust": [
+        "Pratique et applicable",
+        "Adapté aux débutants",
+        "Accès à vie",
+        "Soutien communautaire",
+        "Apprenez partout",
+        "Paiements sécurisés"
+      ],
+      "aboutK": "À propos de Couragier",
+      "aboutT": "Bien plus qu’une plateforme. Un partenaire d’apprentissage pour la vie.",
+      "aboutP": "Fondé sur la conviction que l’apprentissage peut transformer des vies, Couragier rend l’éducation pratique de qualité simple, accessible et motivante.",
+      "story": "Découvrir notre histoire",
+      "journeyK": "Comment ça marche",
+      "journeyT": "Votre parcours d’apprentissage",
+      "journeyP": "Un chemin simple conçu pour vous aider à apprendre, appliquer et obtenir des résultats concrets.",
+      "steps": [
+        [
+          "Choisissez votre parcours",
+          "Sélectionnez la direction qui correspond à vos objectifs."
+        ],
+        [
+          "Apprenez et pratiquez",
+          "Suivez des leçons claires et entraînez-vous avec des ressources utiles."
+        ],
+        [
+          "Obtenez des résultats",
+          "Appliquez vos compétences avec confiance dans la vie réelle."
+        ]
+      ],
+      "skillsK": "Axes d’apprentissage",
+      "skillsT": "Des compétences pour construire la suite",
+      "skillsP": "Explorez des domaines pratiques qui peuvent vous aider à bâtir, améliorer et avancer.",
+      "skills": [
+        [
+          "Amazon FBA",
+          "Recherchez des produits, trouvez des fournisseurs et bâtissez une activité Amazon."
+        ],
+        [
+          "Entrepreneuriat",
+          "Développez les systèmes et stratégies nécessaires à votre entreprise."
+        ],
+        [
+          "Intelligence artificielle",
+          "Utilisez l’IA pour travailler plus vite, créer mieux et gagner en productivité."
+        ],
+        [
+          "Marketing numérique",
+          "Maîtrisez le contenu, la marque, les réseaux sociaux et l’acquisition."
+        ],
+        [
+          "Finances personnelles",
+          "Adoptez de meilleures habitudes financières et des stratégies durables."
+        ],
+        [
+          "Développement personnel",
+          "Renforcez confiance, discipline, communication et leadership."
+        ]
+      ],
+      "ecoK": "Notre écosystème",
+      "ecoT": "Tout pour apprendre, pratiquer et progresser",
+      "ecoP": "Accédez à des expériences et ressources pratiques, réunies au même endroit.",
+      "eco": [
+        [
+          "Livres",
+          "Découvrez des livres pratiques conçus pour vous aider à apprendre, penser autrement et développer des compétences concrètes à votre rythme."
+        ],
+        [
+          "Cours",
+          "Suivez des parcours structurés, étape par étape, qui transforment les connaissances en compétences pratiques et en résultats."
+        ],
+        [
+          "Audio",
+          "Écoutez où que vous soyez des leçons, interventions motivantes et conseils qui entretiennent votre apprentissage."
+        ],
+        [
+          "Vidéos",
+          "Regardez des vidéos éducatives captivantes qui simplifient les sujets complexes et rendent l’apprentissage plus agréable."
+        ],
+        [
+          "Boîtes à outils",
+          "Accédez à des modèles, listes de contrôle, planificateurs et ressources prêts à l’emploi pour agir plus vite."
+        ],
+        [
+          "Communauté",
+          "Rejoignez une communauté solidaire où les apprenants échangent, posent des questions et progressent ensemble."
+        ]
+      ],
+      "more": "En savoir plus →",
+      "whyK": "Conçu pour progresser",
+      "whyT": "Pourquoi les apprenants choisissent Couragier",
+      "whyP": "L’apprentissage doit être clair, pratique et relié à des actions utiles.",
+      "benefits": [
+        [
+          "Conçu pour être compris",
+          "Des explications simples et des visuels clairs qui facilitent l’apprentissage."
+        ],
+        [
+          "Bien plus que des vidéos",
+          "Chaque cours comprend des ressources complémentaires qui renforcent l’apprentissage."
+        ],
+        [
+          "Un système cohérent",
+          "Le même langage visuel dans chaque cours, cahier d’exercices et guide."
+        ],
+        [
+          "Apprenez. Pratiquez. Appliquez.",
+          "Transformez les connaissances en compétences grâce à des ressources pratiques."
+        ],
+        [
+          "Centré sur votre réussite",
+          "Nous visons des résultats concrets, pas seulement la fin d’un cours."
+        ],
+        [
+          "Conçu pour la vie réelle",
+          "Développez des compétences pratiques pour construire, améliorer et progresser dans la vie réelle."
+        ]
+      ],
+      "eduK": "Enseignez. Inspirez. Créez un impact.",
+      "eduT": "Devenez formateur Couragier",
+      "eduP": "Partagez votre expertise, accompagnez les apprenants et rejoignez une mission mondiale portée par l’éducation pratique.",
+      "apply": "Déposer votre candidature",
+      "reviewsK": "Avis de la communauté",
+      "reviewsT": "Ce que dit notre communauté",
+      "reviewsP": "Des témoignages authentiques de personnes qui apprennent, progressent et construisent leur avenir avec Couragier.",
+      "allReviews": "Voir tous les avis →",
+      "faqK": "Questions",
+      "faqT": "Questions fréquentes",
+      "faqs": [
+        [
+          "Qu’est-ce que Couragier ?",
+          "Couragier est un écosystème d’apprentissage pratique qui aide les personnes ambitieuses à développer des compétences utiles, appliquer leurs acquis et créer de réelles opportunités."
+        ],
+        [
+          "À qui s’adresse Couragier ?",
+          "Aux apprenants curieux et ambitieux, entrepreneurs, professionnels et à toute personne qui recherche des conseils clairs et des compétences pratiques."
+        ],
+        [
+          "Les ressources conviennent-elles aux débutants ?",
+          "Oui. Elles utilisent des explications claires, des repères visuels et une progression étape par étape."
+        ],
+        [
+          "Quels types de ressources sont disponibles ?",
+          "Couragier propose des livres, cours, vidéos, leçons audio, boîtes à outils, modèles, listes de contrôle et expériences communautaires."
+        ],
+        [
+          "De nouvelles ressources sont-elles ajoutées régulièrement ?",
+          "Oui. Nous développons régulièrement de nouvelles expériences et ressources pratiques."
+        ],
+        [
+          "Existe-t-il une communauté d’apprentissage ?",
+          "Oui. Couragier développe une communauté solidaire où les apprenants peuvent échanger, poser des questions et progresser ensemble."
+        ],
+        [
+          "Puis-je devenir formateur Couragier ?",
+          "Oui. Les professionnels et formateurs expérimentés peuvent proposer leur candidature pour partager leurs connaissances pratiques."
+        ],
+        [
+          "Par où commencer ?",
+          "Commencez par notre page Ressources. Vous pourrez y explorer nos livres, cours, vidéos, boîtes à outils et autres ressources sur le e-commerce, l’intelligence artificielle, l’entrepreneuriat, le développement personnel et bien plus encore, puis choisir ce qui correspond à vos objectifs et à votre niveau."
+        ],
+        [
+          "Dois-je payer pour accéder à Couragier ?",
+          "Pas toujours. Couragier propose des ressources gratuites et premium. Vous pouvez commencer gratuitement, puis débloquer d’autres ressources, cours et expériences exclusives."
+        ]
+      ],
+      "footerP": "Des expériences et ressources pratiques conçues pour développer des compétences utiles et créer de réelles opportunités.",
+      "legal": "MENTIONS LÉGALES",
+      "connect": "NOUS SUIVRE",
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions générales",
+      "refund": "Politique de remboursement",
+      "rights": "Tous droits réservés.",
+      "contact": [
+        "Vous n’avez pas trouvé votre réponse ?",
+        "Notre équipe d’assistance est prête à vous aider.",
+        "Nous contacter"
+      ],
+      "exploreCol": "Découvrir",
+      "languages": "Langues",
+      "available": "Disponible en",
+      "response": "Réponse sous 12 heures",
+      "home": "Accueil",
+      "about": "À propos",
+      "educator": "Devenir formateur",
+      "courses": "Voir les cours",
+      "learning": "Commencer à apprendre",
+      "reviews": "Avis"
+    },
+    "ht": {
+      "nav": [
+        "Akèy",
+        "Konsènan nou",
+        "Vin yon edikatè",
+        "Gade plan nou yo",
+        "Temwayaj"
+      ],
+      "heroK": "Edikasyon pratik pou pwogrè nan lavi reyèl",
+      "hero1": "Devlope konpetans pratik.",
+      "hero2": "Kreye bon jan opòtinite.",
+      "heroP": "Aprann konpetans pratik nan entèlijans atifisyèl, e-commerce, antreprenarya ak devlopman pèsonèl atravè eksperyans klè, etap pa etap.",
+      "explore": "Dekouvri kou yo",
+      "start": "Kòmanse aprann",
+      "trust": [
+        "Pratik e aplikab",
+        "Fasil pou debutan",
+        "Aksè pou tout lavi",
+        "Sipò kominotè",
+        "Aprann nenpòt kote",
+        "Peman sekirize"
+      ],
+      "aboutK": "Konsènan Couragier",
+      "aboutT": "Plis pase yon platfòm. Yon patnè aprantisaj pou tout lavi.",
+      "aboutP": "Couragier chita sou konviksyon aprantisaj kapab transfòme lavi. Nou rann bon jan edikasyon pratik senp, aksesib epi motivan pou moun ki gen anbisyon.",
+      "story": "Dekouvri istwa nou",
+      "journeyK": "Men kijan li mache",
+      "journeyT": "Vwayaj aprantisaj ou",
+      "journeyP": "Yon chemen senp ki fèt pou ede w aprann, aplike epi jwenn bon jan rezilta.",
+      "steps": [
+        [
+          "Chwazi chemen ou",
+          "Chwazi direksyon aprantisaj ki mache ak objektif ou."
+        ],
+        [
+          "Aprann epi pratike",
+          "Swiv leson klè epi pratike ak resous itil."
+        ],
+        [
+          "Jwenn rezilta",
+          "Aplike konpetans ou ak konfyans nan lavi reyèl."
+        ]
+      ],
+      "skillsK": "Direksyon aprantisaj",
+      "skillsT": "Konpetans pou bati sa k ap vini an",
+      "skillsP": "Dekouvri domèn pratik ki kapab ede w bati, amelyore epi avanse.",
+      "skills": [
+        [
+          "Amazon FBA",
+          "Chèche pwodwi, jwenn founisè epi bati yon biznis Amazon."
+        ],
+        [
+          "Antreprenarya",
+          "Devlope sistèm ak estrateji ou bezwen pou grandi yon biznis."
+        ],
+        [
+          "Entèlijans atifisyèl",
+          "Sèvi ak AI pou travay pi vit, kreye pi byen epi ogmante pwodiktivite."
+        ],
+        [
+          "Maketing dijital",
+          "Metrize kontni, imaj mak, rezo sosyal ak fason pou atire kliyan."
+        ],
+        [
+          "Finans pèsonèl",
+          "Devlope pi bon abitid finansye ak estrateji ki dire lontan."
+        ],
+        [
+          "Devlopman pèsonèl",
+          "Amelyore konfyans, disiplin, kominikasyon ak lidèchip."
+        ]
+      ],
+      "ecoK": "Ekosistèm nou an",
+      "ecoT": "Tout sa w bezwen pou aprann, pratike epi grandi",
+      "ecoP": "Jwenn eksperyans aprantisaj ak resous pratik yo nan yon sèl kote.",
+      "eco": [
+        [
+          "Liv",
+          "Dekouvri liv pratik ki fèt pou ede w aprann, reflechi yon lòt jan epi devlope konpetans reyèl nan pwòp ritm ou."
+        ],
+        [
+          "Kou",
+          "Swiv eksperyans aprantisaj ki estriktire etap pa etap pou transfòme konesans an konpetans pratik ak rezilta reyèl."
+        ],
+        [
+          "Odyo",
+          "Koute diskou motivasyon, leson ak konsèy nenpòt ki lè pou kontinye aprann kèlkeswa kote ou ye."
+        ],
+        [
+          "Videyo",
+          "Gade videyo edikatif enteresan ki senplifye sijè konplike epi rann aprantisaj pi pratik ak agreyab."
+        ],
+        [
+          "Zouti pratik",
+          "Jwenn modèl, lis verifikasyon, planifikatè ak resous ki pare pou ede w pase alaksyon pi vit."
+        ],
+        [
+          "Kominote",
+          "Antre nan yon kominote solidè kote moun konekte, pataje lide, poze kesyon epi grandi ansanm."
+        ]
+      ],
+      "more": "Aprann plis →",
+      "whyK": "Bati pou pwogrè",
+      "whyT": "Poukisa moun chwazi Couragier",
+      "whyP": "Aprantisaj dwe klè, pratik epi konekte ak aksyon ki gen sans.",
+      "benefits": [
+        [
+          "Fèt pou fasilite konpreyansyon",
+          "Imaj klè ak eksplikasyon senp ki rann aprantisaj pi fasil."
+        ],
+        [
+          "Plis pase leson videyo",
+          "Chak kou gen resous siplemantè ki ranfòse aprantisaj la."
+        ],
+        [
+          "Yon sèl sistèm aprantisaj ki konsistan",
+          "Menm langaj vizyèl la nan chak kou, kaye egzèsis ak gid."
+        ],
+        [
+          "Aprann. Pratike. Aplike.",
+          "Transfòme konesans an konpetans reyèl avèk resous pratik."
+        ],
+        [
+          "Konsantre sou siksè ou",
+          "Nou vle ede w jwenn rezilta reyèl, pa sèlman fini leson yo."
+        ],
+        [
+          "Fèt pou itilizasyon nan lavi reyèl",
+          "Aprann konpetans pratik ou kapab itilize pou bati, amelyore epi grandi nan lavi reyèl."
+        ]
+      ],
+      "eduK": "Anseye. Enspire. Kreye enpak.",
+      "eduT": "Vin yon edikatè Couragier",
+      "eduP": "Pataje konesans ou, ede lòt moun grandi epi fè pati yon misyon mondyal k ap kreye chanjman atravè edikasyon pratik.",
+      "apply": "Kòmanse aplikasyon ou",
+      "reviewsK": "Kòmantè kominote a",
+      "reviewsT": "Sa kominote nou an ap di",
+      "reviewsP": "Temwayaj reyèl moun k ap aprann, grandi epi bati avni yo avèk Couragier.",
+      "allReviews": "Gade tout temwayaj yo →",
+      "faqK": "Kesyon",
+      "faqT": "Kesyon moun poze souvan",
+      "faqs": [
+        [
+          "Kisa Couragier ye?",
+          "Couragier se yon ekosistèm aprantisaj pratik ki ede moun anbisye devlope konpetans itil, aplike sa yo aprann epi kreye bon jan opòtinite."
+        ],
+        [
+          "Pou kiyès Couragier fèt?",
+          "Li fèt pou moun kirye ak anbisye, antreprenè, pwofesyonèl ak nenpòt moun ki vle direksyon klè ak konpetans pratik."
+        ],
+        [
+          "Èske resous yo fasil pou debutan?",
+          "Wi. Yo itilize eksplikasyon klè, gid vizyèl ak enstriksyon etap pa etap pou ede debutan aprann ak konfyans."
+        ],
+        [
+          "Ki kalite resous ki disponib?",
+          "Couragier ofri liv, kou, videyo, leson odyo, zouti pratik, modèl, lis verifikasyon ak eksperyans kominotè."
+        ],
+        [
+          "Èske nou ajoute nouvo resous regilyèman?",
+          "Wi. Nou kontinye devlope nouvo eksperyans aprantisaj ak resous pratik pandan ekosistèm nan ap grandi."
+        ],
+        [
+          "Èske gen yon kominote aprantisaj?",
+          "Wi. Couragier ap bati yon kominote solidè kote moun kapab konekte, pataje lide, poze kesyon epi grandi ansanm."
+        ],
+        [
+          "Èske mwen kapab vin yon edikatè Couragier?",
+          "Wi. Pwofesyonèl ak edikatè ki gen eksperyans kapab aplike pou pataje konesans pratik yo atravè Couragier."
+        ],
+        [
+          "Ki kote mwen dwe kòmanse?",
+          "Pi bon kote pou kòmanse se paj Resous nou an. La a, ou kapab dekouvri liv, kou, videyo, zouti pratik ak lòt resous sou e-commerce, entèlijans atifisyèl, antreprenarya, devlopman pèsonèl ak anpil lòt sijè. Apre sa, chwazi sa ki pi byen mache ak objektif, enterè ak nivo eksperyans ou."
+        ],
+        [
+          "Èske mwen bezwen peye pou jwenn aksè nan Couragier?",
+          "Pa toujou. Couragier ofri resous gratis ak resous premium. Ou kapab kòmanse ak kèk kontni gratis epi debloke lòt resous, kou ak eksperyans eksklizif pandan w ap kontinye vwayaj ou."
+        ]
+      ],
+      "footerP": "Eksperyans ak resous aprantisaj pratik ki fèt pou ede w devlope konpetans itil epi kreye bon jan opòtinite.",
+      "legal": "LEGAL",
+      "connect": "REJWENN NOU",
+      "privacy": "Règleman sou vi prive",
+      "terms": "Tèm ak kondisyon",
+      "refund": "Règleman ranbousman",
+      "rights": "Tout dwa rezève.",
+      "contact": [
+        "Ou pa jwenn repons ou t ap chèche a?",
+        "Ekip sipò nou an pare pou ede w.",
+        "Kontakte nou"
+      ],
+      "exploreCol": "Dekouvri",
+      "languages": "Lang",
+      "available": "Disponib an",
+      "response": "N ap reponn nan 12 èdtan",
+      "home": "Akèy",
+      "about": "Konsènan nou",
+      "educator": "Vin yon edikatè",
+      "courses": "Gade kou yo",
+      "learning": "Kòmanse aprann",
+      "reviews": "Temwayaj"
+    }
+  },
+  "N": {
+    "logo": "/assets/images/couragier_official_logo.svg",
+    "hero": "/assets/images/couragier_lion_mascot_e_learning_companion_home_hero.webp",
+    "about": "/assets/images/couragier_lion_mascot_e_learning_companion_home_about.webp",
+    "why": "/assets/images/couragier_lion_mascot_e_learning_companion_home_why.webp",
+    "trust": [
+      "/assets/images/couragier_home_trust_0.webp",
+      "/assets/images/couragier_home_trust_1.webp",
+      "/assets/images/couragier_home_trust_2.webp",
+      "/assets/images/couragier_home_trust_3.webp",
+      "/assets/images/couragier_home_trust_4.webp",
+      "/assets/images/couragier_home_trust_5.webp"
+    ],
+    "eco": [
+      "/assets/images/couragier_lion_mascot_e_learning_companion_home_eco_0.webp",
+      "/assets/images/couragier_lion_mascot_e_learning_companion_home_eco_1.webp",
+      "/assets/images/couragier_lion_mascot_e_learning_companion_home_eco_2.webp",
+      "/assets/images/couragier_lion_mascot_e_learning_companion_home_eco_3.webp",
+      "/assets/images/couragier_lion_mascot_e_learning_companion_home_eco_4.webp",
+      "/assets/images/couragier_lion_mascot_e_learning_companion_home_eco_5.webp"
+    ],
+    "footer": [
+      "/assets/images/couragier_home_footer_0.webp",
+      "/assets/images/couragier_home_footer_1.webp",
+      "/assets/images/couragier_home_footer_2.webp",
+      "/assets/images/couragier_home_footer_3.webp",
+      "/assets/images/couragier_home_footer_4.webp",
+      "/assets/images/couragier_home_footer_5.webp"
+    ]
+  },
+  "I": {
+    "journey": [
+      "/assets/images/couragier_home_journey_0.webp",
+      "/assets/images/couragier_home_journey_1.webp",
+      "/assets/images/couragier_home_journey_2.webp"
+    ],
+    "services": [
+      "/assets/images/couragier_home_services_0.webp",
+      "/assets/images/couragier_home_services_1.webp",
+      "/assets/images/couragier_home_services_2.webp",
+      "/assets/images/couragier_home_services_3.webp",
+      "/assets/images/couragier_home_services_4.webp",
+      "/assets/images/couragier_lion_mascot_e_learning_companion_home_services_5.webp"
+    ],
+    "support": "/assets/images/couragier_home_support.webp"
+  },
+  "assets": {
+    "reviews": [
+      "/assets/images/couragier_review_12.webp",
+      "/assets/images/couragier_review_13.webp",
+      "/assets/images/couragier_review_15.webp"
+    ]
+  },
+  "links": {
+    "nav": [
+      "/",
+      "/about",
+      "/educator",
+      "https://shop.couragier.com/",
+      "/reviews"
+    ]
+  }
+}

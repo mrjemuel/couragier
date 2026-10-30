@@ -1,0 +1,14 @@
+import fs from 'node:fs';
+import path from 'node:path';
+const root = path.resolve(import.meta.dirname,'..');
+const read = file=>fs.readFileSync(path.join(root,file),'utf8');
+const schema = JSON.parse(read('src/data/educator-form.json'));
+const serializer = read('public/assets/js/application-email.mjs').split('export function createApplicationMailto')[0];
+const stripImports = code=>code.replace(/^import .*;\n/gm,'');
+const core = stripImports(read('server/application.mjs'));
+const submit = stripImports(read('server/submit.mjs')).replace('export const onRequest = createApplicationHandler();','');
+const worker = stripImports(read('server/educator-worker.mjs'));
+const code = `// Couragier Educator — standalone module for the Cloudflare dashboard.\n// Generated from the complete original form schema. No secrets are embedded.\nconst schema = ${JSON.stringify(schema)};\n${serializer}\n${core}\n${submit}\n${worker}`;
+fs.mkdirSync(path.join(root,'cloudflare'),{recursive:true});
+fs.writeFileSync(path.join(root,'cloudflare/couragier-educator.mjs'),code);
+console.log('Built standalone couragier-educator Worker (no imports, no dependencies).');
