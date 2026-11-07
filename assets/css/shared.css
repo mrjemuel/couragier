@@ -174,3 +174,49 @@ body[data-page="educator"]>.site-header{position:absolute;top:0;left:0;width:100
 @media (prefers-reduced-motion: reduce) {
   .site-header .site-menu:not([hidden]) { animation: none; }
 }
+
+
+/* Desktop header: logo, navigation and languages share one row. */
+@media (min-width: 1024px) {
+  .site-header .site-header-inner {
+    width: min(1440px, calc(100% - 40px));
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: clamp(8px, 1.2vw, 20px);
+  }
+  .site-header .brand { flex: 0 0 clamp(114px, 12vw, 180px); }
+  .site-header .site-menu,
+  .site-header .site-menu[hidden] {
+    position: static;
+    display: flex;
+    flex: 1 0 auto;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    max-width: none;
+    gap: clamp(2px, .55vw, 10px);
+    padding: 0;
+    border: 0;
+    background: none;
+    box-shadow: none;
+    backdrop-filter: none;
+    animation: none;
+  }
+  .site-header .site-menu a {
+    padding-inline: clamp(4px, .55vw, 9px);
+    color: #fff;
+    font-size: clamp(11px, 1.03vw, 14px);
+    white-space: nowrap;
+  }
+  .site-header .site-menu a:hover,
+  .site-header .site-menu a:focus-visible { background: #ffffff20; }
+  .site-header .site-tools { flex: 0 0 auto; }
+  .site-header .language-switch { gap: clamp(4px, .5vw, 7px); }
+  .site-header .language-switch a {
+    min-width: clamp(47px, 4.5vw, 61px);
+    padding-inline: clamp(5px, .65vw, 10px);
+    font-size: clamp(11px, 1vw, 14px);
+  }
+  .site-header .menu-toggle { display: none; }
+}
