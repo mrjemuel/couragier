@@ -2,7 +2,7 @@
 const lang=document.documentElement.lang;
 try{localStorage.setItem('cg-home-language',lang)}catch{}
 const menu=document.getElementById('site-menu'),toggle=document.querySelector('.menu-toggle');
-const desktopMenu = matchMedia('(min-width: 1050px)');
+const desktopMenu = matchMedia('(min-width: 1024px)');
 function closeMenu() {
   if (!menu || !toggle) return;
   menu.hidden = !desktopMenu.matches;
@@ -36,6 +36,7 @@ if (!reduced && 'IntersectionObserver' in window) {
       observer.unobserve(target);
       const end = Number(target.dataset.count);
       const decimals = Number(target.dataset.decimals || 0);
+      target.textContent = (0).toFixed(decimals);
       const start = performance.now();
       const tick = now => {
         const progress = Math.min(1, (now - start) / 1250);
@@ -46,10 +47,7 @@ if (!reduced && 'IntersectionObserver' in window) {
       requestAnimationFrame(tick);
     }
   }, { threshold: 0.4 });
-  counters.forEach(counter => {
-    counter.textContent = (0).toFixed(Number(counter.dataset.decimals || 0));
-    observer.observe(counter);
-  });
+  counters.forEach(counter => observer.observe(counter));
 }
 const track=document.querySelector('.cg-review-track'),dots=[...document.querySelectorAll('.cg-review-dots button')];if(track){track.addEventListener('scroll',()=>{const i=Math.round(track.scrollLeft/Math.max(1,track.children[0].getBoundingClientRect().width+14));dots.forEach((d,n)=>d.classList.toggle('active',n===i))},{passive:true});dots.forEach((d,i)=>d.addEventListener('click',()=>track.children[i].scrollIntoView({behavior:reduced?'instant':'smooth',block:'nearest',inline:'start'})))}
 // No optional tracking is installed. Consent is a local preference, not a promise to control unrelated subdomains.

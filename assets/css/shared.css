@@ -111,7 +111,7 @@ body[data-page="educator"]>.site-header{position:absolute;top:0;left:0;width:100
 .application-verification{min-width:0;max-width:100%}.application-form[aria-busy="true"] button[type="submit"]{opacity:.65;cursor:wait}.application-form .form-status{overflow-wrap:anywhere}.application-form button:disabled{cursor:not-allowed}
 
 .site-header .brand { max-width: 180px; }
-@media (min-width: 1050px) {
+@media (min-width: 1024px) {
   .site-header-inner { width: min(1360px, calc(100% - 48px)); }
   .site-header .menu-toggle { display: none; }
   .site-header .site-menu,
@@ -131,7 +131,7 @@ body[data-page="educator"]>.site-header{position:absolute;top:0;left:0;width:100
   .site-header .site-menu a:hover,
   .site-header .site-menu a:focus-visible { background: #ffffff20; }
 }
-@media (max-width: 1049px) {
+@media (max-width: 1023px) {
   .site-header .brand { max-width: 116px; }
   .site-header .menu-toggle {
     display: grid;
@@ -150,13 +150,13 @@ body[data-page="educator"]>.site-header{position:absolute;top:0;left:0;width:100
 .site-header .site-menu .site-contact-link { background: rgba(0, 53, 148, .94); color: #fff; }
 .site-header .site-menu .site-contact-link:hover,
 .site-header .site-menu .site-contact-link:focus-visible { background: #0644aa; color: #fff; }
-@media (min-width: 1050px) {
+@media (min-width: 1024px) {
   .site-header .site-menu { gap: clamp(2px, .65vw, 11px); }
   .site-header .site-menu a { padding-inline: 8px; font-size: clamp(12px, 1.08vw, 14px); }
 }
 
 
-@media (max-width: 1049px) {
+@media (max-width: 1023px) {
   .site-header .site-menu {
     background: rgba(255, 255, 255, .94);
     backdrop-filter: blur(14px);
